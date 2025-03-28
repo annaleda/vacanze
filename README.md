@@ -59,7 +59,17 @@ In base alle risposte dei servizi di check è possibile, per alcune combinazioni
 ## File Impattati
 
 - Elenco dei file modificati, con un breve commento sulle modifiche principali apportate.
-
+  * platform-ext:
+      - `com/rgigroup/ext/rest/clients/provisio`
+      -  `com/rgigroup/ext/seiimpl/passportafoglio/provider/ServiceSaveProposalFromQuoteProviderExt.java`
+  * platform-ext-rest:
+      -  `com/rgigroup/ext/rs/romeo/api/provisio`
+      -  `com/rgigroup/ext/rs/romeo/mapper/AddSurveyMapper.java`
+  * portal:
+      -  `src/main/angularjs/src/extapp/provisio`
+      -  `src/main/angularjs/src/extapp/ptfdamage-ext/carddamagesproposal/controllers/ptfdamage-ext-card-proposal-controller-propdata.js`
+      -  `src/main/angularjs/src/extapp/ptfdamage-ext/services`
+        
 ## Commit Git
 
 - **Commit ID**: Elencare gli ID dei commit rilevanti e un breve commento per ciascuno.
